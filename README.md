@@ -10,7 +10,7 @@ Clean architecture, DX-first, and testable UIs. I turn specs into scalable produ
 - I build **cross‑platform** experiences, advocate for **Clean Architecture & SOLID**, and keep performance + accessibility in check.
 - I work closely with **QA, producto y diseño**, and I love automating tests (Playwright, Jest, Cypress).
 - Curious about **AI-assisted UX**, **RAG**, and smart tooling that speeds up teams.
-- Fun fact: me dicen **Gisse**. (También tomo café… pero con control, soy diabética ☕️💙).
+- Fun fact:
 
 ---
 
