@@ -45,8 +45,8 @@ Clean architecture, DX-first, and testable UIs. I turn specs into scalable produ
 
 ## 🤝 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/gissellemarthe/](#)
-- Email: **[gissellemarthem]@gmail.com**
-- Portafolio: [link opcional](#)
+- Email: **gissellemarthem@gmail.com**
+
 
 > *Open to collaborating on RN/Vue/Angular, testing, and UX-heavy apps.*
 
